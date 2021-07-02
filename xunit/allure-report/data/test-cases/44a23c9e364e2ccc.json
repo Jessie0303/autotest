@@ -1,0 +1,65 @@
+{
+  "uid" : "44a23c9e364e2ccc",
+  "name" : "[1] Nanos",
+  "fullName" : "junit5.DataSourceDemo.testWithExplicitArgumentConversion",
+  "historyId" : "b08da103d842d200c669ea31bd04b40",
+  "time" : {
+    "start" : 1625126290741,
+    "stop" : 1625126290742,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "testWithExplicitArgumentConversion"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "494ff92f2b3ce4c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625124970792,
+        "stop" : 1625124970792,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44a23c9e364e2ccc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,230 @@
+{
+  "uid" : "8fd6f1aa5856d35b",
+  "name" : "testDemo5",
+  "fullName" : "testng.AnnotationTest.testDemo5",
+  "historyId" : "50c0befb4e47f33adcb2f5585379c163",
+  "time" : {
+    "start" : 1625125639463,
+    "stop" : 1625125639463,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1625125639072,
+      "stop" : 1625125639073,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "start",
+    "time" : {
+      "start" : 1625125639063,
+      "stop" : 1625125639064,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1625125639052,
+      "stop" : 1625125639058,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "clean",
+    "time" : {
+      "start" : 1625125639635,
+      "stop" : 1625125639635,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "在每个Test之后执行",
+    "time" : {
+      "start" : 1625125639635,
+      "stop" : 1625125639635,
+      "duration" : 0
+    },
+    "description" : "在每个Test之后执行",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "cleanMethod",
+    "time" : {
+      "start" : 1625125639464,
+      "stop" : 1625125639464,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1625125639640,
+      "stop" : 1625125639640,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testng.AnnotationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testng.AnnotationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testDemo5"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "xunit"
+  }, {
+    "name" : "subSuite",
+    "value" : "testng.AnnotationTest"
+  }, {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12954@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e849bdfb779f22b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625125639457,
+        "stop" : 1625125639458,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f5224f541c05cf7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625125639435,
+        "stop" : 1625125639435,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bd220b8d72085b94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625125639426,
+        "stop" : 1625125639426,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "70280282f5c3161b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625125639399,
+        "stop" : 1625125639399,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9cd5f0b80ffe268c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625125639393,
+        "stop" : 1625125639393,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "88e3ed4be5b8cce9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625125639384,
+        "stop" : 1625125639384,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b8c627c9abbd482b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625125639378,
+        "stop" : 1625125639379,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fd6f1aa5856d35b.json",
+  "parameterValues" : [ ]
+}

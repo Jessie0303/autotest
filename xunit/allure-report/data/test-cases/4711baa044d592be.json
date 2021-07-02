@@ -1,0 +1,57 @@
+{
+  "uid" : "4711baa044d592be",
+  "name" : "[1] 42 Cats",
+  "fullName" : "junit5.DataSourceDemo.testWithImplicitFallbackArgumentConversion",
+  "historyId" : "b14966b55348490c38e837654981cf94",
+  "time" : {
+    "start" : 1625126290700,
+    "stop" : 1625126290702,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "testWithImplicitFallbackArgumentConversion"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4711baa044d592be.json",
+  "parameterValues" : [ ]
+}

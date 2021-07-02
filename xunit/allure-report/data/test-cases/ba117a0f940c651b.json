@@ -1,0 +1,67 @@
+{
+  "uid" : "ba117a0f940c651b",
+  "name" : "notOnJava8Below()",
+  "fullName" : "junit5.ExecuteConditionDemo.notOnJava8Below",
+  "historyId" : "737d75ea3804bd02ad46b7571ece768a",
+  "time" : {
+    "start" : 1625126290597,
+    "stop" : 1625126290597,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "skipped",
+  "statusMessage" : "Disabled on JRE version: 1.8.0_152",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "notOnJava8Below"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d8ba4e884e040733",
+      "status" : "skipped",
+      "statusDetails" : "Disabled on JRE version: 1.8.0_152",
+      "time" : {
+        "start" : 1625124970512,
+        "stop" : 1625124970512,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba117a0f940c651b.json",
+  "parameterValues" : [ ]
+}

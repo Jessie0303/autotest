@@ -1,0 +1,65 @@
+{
+  "uid" : "f9564b7a04aa5152",
+  "name" : "onlyOnJava11Max()",
+  "fullName" : "junit5.ExecuteConditionDemo.onlyOnJava11Max",
+  "historyId" : "101ea424c7b244d87e53a58b80e67e8e",
+  "time" : {
+    "start" : 1625126290608,
+    "stop" : 1625126290608,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "onlyOnJava11Max"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff6a7183e093bdef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625124970530,
+        "stop" : 1625124970531,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9564b7a04aa5152.json",
+  "parameterValues" : [ ]
+}

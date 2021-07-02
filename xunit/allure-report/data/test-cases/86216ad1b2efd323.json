@@ -1,0 +1,57 @@
+{
+  "uid" : "86216ad1b2efd323",
+  "name" : "[2] 徐二",
+  "fullName" : "junit5.OrderDemo.testcase2",
+  "historyId" : "8e0117d32c630f1fa763a96dc89ee5ee",
+  "time" : {
+    "start" : 1625124970931,
+    "stop" : 1625124970932,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12938@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.OrderDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.OrderDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "testcase2"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.OrderDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86216ad1b2efd323.json",
+  "parameterValues" : [ ]
+}

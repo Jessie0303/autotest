@@ -1,0 +1,57 @@
+{
+  "uid" : "8398eaeded220f",
+  "name" : "只有操作系统是macOs才会执行\uD83D\uDE31",
+  "fullName" : "junit5.MyFirstTestcase.testcase3",
+  "historyId" : "8224de3585b3008dd4100777dd0f3f87",
+  "time" : {
+    "start" : 1625126289502,
+    "stop" : 1625126289502,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.MyFirstTestcase"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.MyFirstTestcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "testcase3"
+  }, {
+    "name" : "suite",
+    "value" : "这是MyFirstTestcase的测试类DisplayName"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8398eaeded220f.json",
+  "parameterValues" : [ ]
+}

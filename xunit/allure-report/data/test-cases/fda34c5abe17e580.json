@@ -1,0 +1,55 @@
+{
+  "uid" : "fda34c5abe17e580",
+  "name" : "[1] value1",
+  "fullName" : "junit5.DataSourceDemo.strValueSource",
+  "historyId" : "f12ffcf6c09ed1840116db9ef4f06eb9",
+  "time" : {
+    "start" : 1625124970728,
+    "stop" : 1625124970729,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12938@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "strValueSource"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fda34c5abe17e580.json",
+  "parameterValues" : [ ]
+}

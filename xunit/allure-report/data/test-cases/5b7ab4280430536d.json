@@ -1,0 +1,57 @@
+{
+  "uid" : "5b7ab4280430536d",
+  "name" : "repetition 1 of 4",
+  "fullName" : "junit5.RepeatDemo.repeatedTest",
+  "historyId" : "fb43db0be6f730ceed114e6252201ca4",
+  "time" : {
+    "start" : 1625126289431,
+    "stop" : 1625126289435,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.RepeatDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.RepeatDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "repeatedTest"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.RepeatDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b7ab4280430536d.json",
+  "parameterValues" : [ ]
+}

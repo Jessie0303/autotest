@@ -1,0 +1,57 @@
+{
+  "uid" : "88096b2da900eb49",
+  "name" : "input:51",
+  "fullName" : "junit5.DynamicTestsDemo.generateRandomNumberOfTestsFromIterator",
+  "historyId" : "68cdf952093fdb718776ca262df7720",
+  "time" : {
+    "start" : 1625126287380,
+    "stop" : 1625126287380,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.DynamicTestsDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.DynamicTestsDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "generateRandomNumberOfTestsFromIterator"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.DynamicTestsDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88096b2da900eb49.json",
+  "parameterValues" : [ ]
+}

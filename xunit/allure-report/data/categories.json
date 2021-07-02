@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "@TestFactory method [java.util.List<java.lang.String> junit5.DynamicTestsDemo.dynamicTestsWithInvalidReturnType()] must return a single org.junit.jupiter.api.DynamicNode or a Stream, Collection, Iterable, Iterator, or array of org.junit.jupiter.api.DynamicNode.",
+      "children" : [ {
+        "name" : "dynamicTestsWithInvalidReturnType()",
+        "uid" : "affe0545204b8f0d",
+        "parentUid" : "ec18a8dbb909e7ceacdb1084a452fe6c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1625124969167,
+          "stop" : 1625124969167,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ec18a8dbb909e7ceacdb1084a452fe6c"
+    }, {
+      "name" : "File [src/main/resources/data/DataSourceCsv.csv] could not be read",
+      "children" : [ {
+        "name" : "testWithCsvFileSourceFromFile(String, double, double)",
+        "uid" : "6701b22c0ba6c1b6",
+        "parentUid" : "ca52b2ea0f6496d6bd5d1c1650046909",
+        "status" : "broken",
+        "time" : {
+          "start" : 1625126290685,
+          "stop" : 1625126290685,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca52b2ea0f6496d6bd5d1c1650046909"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

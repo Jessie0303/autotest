@@ -1,0 +1,57 @@
+{
+  "uid" : "271ae53f15960943",
+  "name" : "[1] SECONDS",
+  "fullName" : "junit5.DataSourceDemo.testWithEnumSourceInclude",
+  "historyId" : "9aa2754dd32f704bf7e8b490c21c4e00",
+  "time" : {
+    "start" : 1625126290647,
+    "stop" : 1625126290659,
+    "duration" : 12
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "testWithEnumSourceInclude"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "271ae53f15960943.json",
+  "parameterValues" : [ ]
+}

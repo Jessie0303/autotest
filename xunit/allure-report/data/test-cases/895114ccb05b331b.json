@@ -1,0 +1,57 @@
+{
+  "uid" : "895114ccb05b331b",
+  "name" : "这是thirdClassCase1测试方法DisplayName",
+  "fullName" : "junit5.MyFirstTestcase$MyThirdNestedClass.thirdClassCase1",
+  "historyId" : "853bdc2e4c5a427e2b5fe50fa695a8fb",
+  "time" : {
+    "start" : 1625126289524,
+    "stop" : 1625126289524,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.MyFirstTestcase$MyThirdNestedClass"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.MyFirstTestcase$MyThirdNestedClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "thirdClassCase1"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.MyFirstTestcase.MyThirdNestedClass"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "895114ccb05b331b.json",
+  "parameterValues" : [ ]
+}

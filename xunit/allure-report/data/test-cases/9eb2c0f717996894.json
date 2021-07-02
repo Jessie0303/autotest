@@ -1,0 +1,57 @@
+{
+  "uid" : "9eb2c0f717996894",
+  "name" : "canSetCustomPropertyToBanana()",
+  "fullName" : "junit5.SharedResourcesDemo.canSetCustomPropertyToBanana",
+  "historyId" : "7e9be6c31b1d8a2ffa020d573d3a06fc",
+  "time" : {
+    "start" : 1625124969311,
+    "stop" : 1625124969312,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12938@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.SharedResourcesDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.SharedResourcesDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "canSetCustomPropertyToBanana"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.SharedResourcesDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9eb2c0f717996894.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "d7c59d9673643735",
+  "name" : "这是MySecondNestedClass内嵌类的DisplayName的secondClassCase1方法",
+  "fullName" : "junit5.MyFirstTestcase$MySecondNestedClass.secondClassCase1",
+  "historyId" : "18dee9bfa7ac9813aa232ec657ee05af",
+  "time" : {
+    "start" : 1625126289527,
+    "stop" : 1625126289528,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.MyFirstTestcase$MySecondNestedClass"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.MyFirstTestcase$MySecondNestedClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "secondClassCase1"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.MyFirstTestcase.MySecondNestedClass"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7c59d9673643735.json",
+  "parameterValues" : [ ]
+}

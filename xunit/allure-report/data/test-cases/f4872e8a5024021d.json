@@ -1,0 +1,55 @@
+{
+  "uid" : "f4872e8a5024021d",
+  "name" : "testcase1()",
+  "fullName" : "junit5.NestedDemo.testcase1",
+  "historyId" : "c498dc0dc9839a9fa1cf25d46b81d657",
+  "time" : {
+    "start" : 1625124969396,
+    "stop" : 1625124969397,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12938@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.NestedDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.NestedDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "testcase1"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.NestedDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4872e8a5024021d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "9ee7f18f903401cf",
+  "name" : "mom is a palindrome",
+  "fullName" : "junit5.DynamicTestsDemo.dynamicTestsFromStreamFactoryMethod",
+  "historyId" : "6e9c0681c686325e1dca220cde20c65",
+  "time" : {
+    "start" : 1625126285317,
+    "stop" : 1625126285317,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.DynamicTestsDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.DynamicTestsDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "dynamicTestsFromStreamFactoryMethod"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.DynamicTestsDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ee7f18f903401cf.json",
+  "parameterValues" : [ ]
+}

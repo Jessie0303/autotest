@@ -1,0 +1,55 @@
+{
+  "uid" : "d1b687b469a5f73f",
+  "name" : "[2] banana",
+  "fullName" : "junit5.DataSourceDemo.testWithArgumentsSource",
+  "historyId" : "be18edfc12131e5e4d288fc0deba131e",
+  "time" : {
+    "start" : 1625124970711,
+    "stop" : 1625124970711,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12938@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "testWithArgumentsSource"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.DataSourceDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1b687b469a5f73f.json",
+  "parameterValues" : [ ]
+}

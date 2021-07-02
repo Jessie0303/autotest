@@ -1,0 +1,65 @@
+{
+  "uid" : "c35b423bf2ca0c41",
+  "name" : "Wiederholung 3 von 5",
+  "fullName" : "junit5.RepeatDemo.repeatedTestInGerman",
+  "historyId" : "878fa607c5e2859e6c7bc1bfba9a7b07",
+  "time" : {
+    "start" : 1625126289450,
+    "stop" : 1625126289450,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.RepeatDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.RepeatDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "repeatedTestInGerman"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.RepeatDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "172865b24a0553dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625124969246,
+        "stop" : 1625124969247,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c35b423bf2ca0c41.json",
+  "parameterValues" : [ ]
+}

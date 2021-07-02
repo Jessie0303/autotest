@@ -1,0 +1,64 @@
+{
+  "uid" : "e2b08d91fec8f0fb",
+  "name" : "testingTaxCalculation()",
+  "fullName" : "junit5.TaggingDemo.testingTaxCalculation",
+  "historyId" : "f707472c78ab98204c03c7a12323b2b3",
+  "time" : {
+    "start" : 1625124969181,
+    "stop" : 1625124969184,
+    "duration" : 3
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "tag",
+    "value" : "fast"
+  }, {
+    "name" : "tag",
+    "value" : "model"
+  }, {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12938@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.TaggingDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.TaggingDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "testingTaxCalculation"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.TaggingDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "fast", "smoke", "model" ]
+  },
+  "source" : "e2b08d91fec8f0fb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "e3c35e9914cb625a",
+  "name" : "notOnWindows()",
+  "fullName" : "junit5.ExecuteConditionDemo.notOnWindows",
+  "historyId" : "71d48e45231527417d7eb1bf53894ff",
+  "time" : {
+    "start" : 1625126290577,
+    "stop" : 1625126290577,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "cicideMBP"
+  }, {
+    "name" : "thread",
+    "value" : "12985@cicideMBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "notOnWindows"
+  }, {
+    "name" : "suite",
+    "value" : "junit5.ExecuteConditionDemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3c35e9914cb625a.json",
+  "parameterValues" : [ ]
+}

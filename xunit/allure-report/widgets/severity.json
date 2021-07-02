@@ -1,0 +1,1541 @@
+[ {
+  "uid" : "5e0f358ac6407193",
+  "name" : "[1] value1",
+  "time" : {
+    "start" : 1625126290714,
+    "stop" : 1625126290715,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f22e829b99c7afa4",
+  "name" : "总共3次测试，这是这是重复测试第1次",
+  "time" : {
+    "start" : 1625126289508,
+    "stop" : 1625126289508,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "788ea8a23a76aff8",
+  "name" : "这是testcase1测试方法DisplayName",
+  "time" : {
+    "start" : 1625126289493,
+    "stop" : 1625126289494,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44a23c9e364e2ccc",
+  "name" : "[1] Nanos",
+  "time" : {
+    "start" : 1625126290741,
+    "stop" : 1625126290742,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d25f8246ec7ef845",
+  "name" : "3rd dynamic test",
+  "time" : {
+    "start" : 1625126285323,
+    "stop" : 1625126285324,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7c59d9673643735",
+  "name" : "这是MySecondNestedClass内嵌类的DisplayName的secondClassCase1方法",
+  "time" : {
+    "start" : 1625126289527,
+    "stop" : 1625126289528,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb1e7b42f46bf7aa",
+  "name" : "input:38",
+  "time" : {
+    "start" : 1625126287362,
+    "stop" : 1625126287363,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89a72cfca02a131e",
+  "name" : "[2] value2",
+  "time" : {
+    "start" : 1625126290717,
+    "stop" : 1625126290717,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ad5b0448e59477a",
+  "name" : "[1] SECONDS",
+  "time" : {
+    "start" : 1625126290711,
+    "stop" : 1625126290711,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfd690e457d4698c",
+  "name" : "enabled()",
+  "time" : {
+    "start" : 1625124970460,
+    "stop" : 1625124970460,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "106da55e58a813c3",
+  "name" : "[1] 徐一",
+  "time" : {
+    "start" : 1625126290803,
+    "stop" : 1625126290803,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3b145ecad6f1f08",
+  "name" : "test10",
+  "time" : {
+    "start" : 1625124965004,
+    "stop" : 1625124965004,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0bac6c3d38566b0",
+  "name" : "testOnlyOnDeveloperWorkstation()",
+  "time" : {
+    "start" : 1625126289546,
+    "stop" : 1625126289548,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "515a0b748c8c8f59",
+  "name" : "notOnCiServer()",
+  "time" : {
+    "start" : 1625126290585,
+    "stop" : 1625126290585,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "950e710e3f24b5ec",
+  "name" : "总共3次测试，这是这是重复测试第3次",
+  "time" : {
+    "start" : 1625126289514,
+    "stop" : 1625126289514,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc4d965bec8d3a64",
+  "name" : "dad is a palindrome",
+  "time" : {
+    "start" : 1625124965075,
+    "stop" : 1625124965075,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7caeb1ee9d2bc5e",
+  "name" : "testDemo1",
+  "time" : {
+    "start" : 1625125639631,
+    "stop" : 1625125639631,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11aa628fbdd570bb",
+  "name" : "not empty",
+  "time" : {
+    "start" : 1625126285226,
+    "stop" : 1625126285226,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5037de25a40b3f4e",
+  "name" : "reportMultipleKeyValuePairs(TestReporter)",
+  "time" : {
+    "start" : 1625124970564,
+    "stop" : 1625124970565,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba6b7b81ef27829c",
+  "name" : "[2] HOURS",
+  "time" : {
+    "start" : 1625126290661,
+    "stop" : 1625126290662,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fd6f1aa5856d35b",
+  "name" : "testDemo5",
+  "time" : {
+    "start" : 1625125639463,
+    "stop" : 1625125639463,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52c218858f37b759",
+  "name" : "input:86",
+  "time" : {
+    "start" : 1625126287364,
+    "stop" : 1625126287364,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b18fc5e1dc0ec5dd",
+  "name" : "Wiederholung 1 von 5",
+  "time" : {
+    "start" : 1625126289445,
+    "stop" : 1625126289445,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b1826efccd3ff04",
+  "name" : "racecar",
+  "time" : {
+    "start" : 1625124965034,
+    "stop" : 1625124965034,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96ebf516927ba74b",
+  "name" : "radar is a palindrome",
+  "time" : {
+    "start" : 1625126285315,
+    "stop" : 1625126285315,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "182efd664faf8fc4",
+  "name" : "[6] Hours",
+  "time" : {
+    "start" : 1625126290754,
+    "stop" : 1625126290755,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be80e2753b1c502e",
+  "name" : "8th dynamic test",
+  "time" : {
+    "start" : 1625124967142,
+    "stop" : 1625124968147,
+    "duration" : 1005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88096b2da900eb49",
+  "name" : "input:51",
+  "time" : {
+    "start" : 1625126287380,
+    "stop" : 1625126287380,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94f2fbf5c3c42f83",
+  "name" : "onlyOnMacOs()",
+  "time" : {
+    "start" : 1625126290603,
+    "stop" : 1625126290604,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "271ae53f15960943",
+  "name" : "[1] SECONDS",
+  "time" : {
+    "start" : 1625126290647,
+    "stop" : 1625126290659,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c03e61046cfeb4",
+  "name" : "test12",
+  "time" : {
+    "start" : 1625126285288,
+    "stop" : 1625126285288,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52751ac7edb00889",
+  "name" : "[3] 徐三",
+  "time" : {
+    "start" : 1625124970960,
+    "stop" : 1625124970961,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "559261d119b123e6",
+  "name" : "dad",
+  "time" : {
+    "start" : 1625126285258,
+    "stop" : 1625126285258,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "895114ccb05b331b",
+  "name" : "这是thirdClassCase1测试方法DisplayName",
+  "time" : {
+    "start" : 1625126289524,
+    "stop" : 1625126289524,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce9d2d6d4438bf81",
+  "name" : "repetition 3 of 5",
+  "time" : {
+    "start" : 1625124969274,
+    "stop" : 1625124969274,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abadd0dea1cd7863",
+  "name" : "testDemo6",
+  "time" : {
+    "start" : 1625125639468,
+    "stop" : 1625125639471,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b7ab4280430536d",
+  "name" : "repetition 1 of 4",
+  "time" : {
+    "start" : 1625126289431,
+    "stop" : 1625126289435,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a51aa349b851af28",
+  "name" : "repetition 4 of 4",
+  "time" : {
+    "start" : 1625126289441,
+    "stop" : 1625126289442,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32ebf73166f24880",
+  "name" : "testDemo3",
+  "time" : {
+    "start" : 1625125639546,
+    "stop" : 1625125639546,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aae280a6e0007d6",
+  "name" : "disabled()",
+  "time" : {
+    "start" : 1625124970507,
+    "stop" : 1625124970507,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d26e237a89acd322",
+  "name" : "not empty",
+  "time" : {
+    "start" : 1625126285212,
+    "stop" : 1625126285212,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e3fe9ec2cb69a8f",
+  "name" : "这是secondClassCase1测试方法DisplayName",
+  "time" : {
+    "start" : 1625126289541,
+    "stop" : 1625126289541,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4fbd73aaa87df3d",
+  "name" : "not null",
+  "time" : {
+    "start" : 1625126285231,
+    "stop" : 1625126285231,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85db4dbef3f3ea18",
+  "name" : "TEST 1",
+  "time" : {
+    "start" : 1625126290566,
+    "stop" : 1625126290566,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92fdfebb7876d3c4",
+  "name" : "onlyOnJava8To11()",
+  "time" : {
+    "start" : 1625126290611,
+    "stop" : 1625126290611,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6521b9e7a97f8058",
+  "name" : "radar",
+  "time" : {
+    "start" : 1625126285302,
+    "stop" : 1625126285302,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "585093e1a6e60925",
+  "name" : "input:40",
+  "time" : {
+    "start" : 1625126287371,
+    "stop" : 1625126287371,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86216ad1b2efd323",
+  "name" : "[2] 徐二",
+  "time" : {
+    "start" : 1625124970931,
+    "stop" : 1625124970932,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9eb2c0f717996894",
+  "name" : "canSetCustomPropertyToBanana()",
+  "time" : {
+    "start" : 1625124969311,
+    "stop" : 1625124969312,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dca3a22095e50283",
+  "name" : "[4] Seconds",
+  "time" : {
+    "start" : 1625126290749,
+    "stop" : 1625126290750,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "174ce657eeb16025",
+  "name" : "repetition 2 of 4",
+  "time" : {
+    "start" : 1625126289437,
+    "stop" : 1625126289438,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd5ac29d383aadf5",
+  "name" : "testcase6()",
+  "time" : {
+    "start" : 1625126289516,
+    "stop" : 1625126289516,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6701b22c0ba6c1b6",
+  "name" : "testWithCsvFileSourceFromFile(String, double, double)",
+  "time" : {
+    "start" : 1625126290685,
+    "stop" : 1625126290685,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d47d4335f8f29e7d",
+  "name" : "test2()",
+  "time" : {
+    "start" : 1625126290568,
+    "stop" : 1625126290569,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b073690f8fd8e5a2",
+  "name" : "testDemo8",
+  "time" : {
+    "start" : 1625125639530,
+    "stop" : 1625125639530,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cb1911d80a55bf2",
+  "name" : "[1] cat",
+  "time" : {
+    "start" : 1625126290689,
+    "stop" : 1625126290690,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6b18c6cd0cd32d6",
+  "name" : "[7] HalfDays",
+  "time" : {
+    "start" : 1625126290757,
+    "stop" : 1625126290758,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1f9d54a4c15a1ab",
+  "name" : "input:26",
+  "time" : {
+    "start" : 1625126287354,
+    "stop" : 1625126287354,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6566240e0d548d84",
+  "name" : "testcase1()",
+  "time" : {
+    "start" : 1625126289534,
+    "stop" : 1625126289534,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "328848e9aa4b7d79",
+  "name" : "testDemo4",
+  "time" : {
+    "start" : 1625125639367,
+    "stop" : 1625125639367,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e72676d2b1c25f0",
+  "name" : "canSetCustomPropertyToApple()",
+  "time" : {
+    "start" : 1625126289481,
+    "stop" : 1625126289482,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8ce3490a003f1a",
+  "name" : "input:87",
+  "time" : {
+    "start" : 1625126287374,
+    "stop" : 1625126287374,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9667f4c169d2d1d",
+  "name" : "4th dynamic test",
+  "time" : {
+    "start" : 1625126285327,
+    "stop" : 1625126286331,
+    "duration" : 1004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca3c0d01a1cbae13",
+  "name" : "length > 0",
+  "time" : {
+    "start" : 1625126285207,
+    "stop" : 1625126285207,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ee7f18f903401cf",
+  "name" : "mom is a palindrome",
+  "time" : {
+    "start" : 1625126285317,
+    "stop" : 1625126285317,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b50a7aeb3b5e5fd",
+  "name" : "input:18",
+  "time" : {
+    "start" : 1625126287352,
+    "stop" : 1625126287352,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62f75ff6bc467683",
+  "name" : "[1] 徐一",
+  "time" : {
+    "start" : 1625126290814,
+    "stop" : 1625126290815,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d615bb090a0bb52b",
+  "name" : "test4",
+  "time" : {
+    "start" : 1625126285275,
+    "stop" : 1625126285275,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "385060dce4495ff0",
+  "name" : "[2] 徐二",
+  "time" : {
+    "start" : 1625126290807,
+    "stop" : 1625126290807,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f18246090138f7f",
+  "name" : "[11] Years",
+  "time" : {
+    "start" : 1625126290774,
+    "stop" : 1625126290775,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0343771d2bcaaaf",
+  "name" : "racecar",
+  "time" : {
+    "start" : 1625126285251,
+    "stop" : 1625126285251,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "130e7a96d9ef73e2",
+  "name" : "printl()",
+  "time" : {
+    "start" : 1625126290614,
+    "stop" : 1625126290615,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba117a0f940c651b",
+  "name" : "notOnJava8Below()",
+  "time" : {
+    "start" : 1625126290597,
+    "stop" : 1625126290597,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "59681d3c14299976",
+  "name" : "Wiederholung 4 von 5",
+  "time" : {
+    "start" : 1625126289452,
+    "stop" : 1625126289452,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "453e0c53624b008a",
+  "name" : "testInAllEnvironments()",
+  "time" : {
+    "start" : 1625126289551,
+    "stop" : 1625126290556,
+    "duration" : 1005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74c7c6b594746f3d",
+  "name" : "length > 0",
+  "time" : {
+    "start" : 1625126285234,
+    "stop" : 1625126285234,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c35b423bf2ca0c41",
+  "name" : "Wiederholung 3 von 5",
+  "time" : {
+    "start" : 1625126289450,
+    "stop" : 1625126289450,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c148bc610b662f8d",
+  "name" : "reportKeyValuePair(TestReporter)",
+  "time" : {
+    "start" : 1625124970568,
+    "stop" : 1625124970571,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b631d79ae394c5e2",
+  "name" : "7th dynamic test",
+  "time" : {
+    "start" : 1625126287383,
+    "stop" : 1625126287384,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e76e30a7abbf869f",
+  "name" : "radar",
+  "time" : {
+    "start" : 1625126285253,
+    "stop" : 1625126285253,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8398eaeded220f",
+  "name" : "只有操作系统是macOs才会执行\uD83D\uDE31",
+  "time" : {
+    "start" : 1625126289502,
+    "stop" : 1625126289502,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75c70cd52fc3b7ac",
+  "name" : "[3] 3, Three",
+  "time" : {
+    "start" : 1625126290737,
+    "stop" : 1625126290737,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70dbbda091e6d591",
+  "name" : "test14",
+  "time" : {
+    "start" : 1625124965011,
+    "stop" : 1625124965012,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6f5ecaebb1b96ce",
+  "name" : "testingTaxCalculation()",
+  "time" : {
+    "start" : 1625126289418,
+    "stop" : 1625126289421,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "137f572a43e95654",
+  "name" : "6th dynamic test",
+  "time" : {
+    "start" : 1625126286339,
+    "stop" : 1625126287344,
+    "duration" : 1005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14e44feb29ac8aec",
+  "name" : "5th dynamic test",
+  "time" : {
+    "start" : 1625126286337,
+    "stop" : 1625126286337,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5bdc826e3c1b930",
+  "name" : "not null",
+  "time" : {
+    "start" : 1625126285217,
+    "stop" : 1625126285217,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c90527888fcd88ad",
+  "name" : "[1] apple",
+  "time" : {
+    "start" : 1625124970708,
+    "stop" : 1625124970708,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66eabe73d0d4ec6e",
+  "name" : "mom",
+  "time" : {
+    "start" : 1625126285255,
+    "stop" : 1625126285256,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "299d9d8cf6a45884",
+  "name" : "这是testcase2被禁用╯°□°）╯",
+  "time" : {
+    "start" : 1625126289497,
+    "stop" : 1625126289497,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4711baa044d592be",
+  "name" : "[1] 42 Cats",
+  "time" : {
+    "start" : 1625126290700,
+    "stop" : 1625126290702,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82119ce3e61bccaa",
+  "name" : "not empty",
+  "time" : {
+    "start" : 1625126285236,
+    "stop" : 1625126285237,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdeb7d6a63d6f51",
+  "name" : "这是重复测试",
+  "time" : {
+    "start" : 1625126289505,
+    "stop" : 1625126289506,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf108f024c33e375",
+  "name" : "总共3次测试，这是这是重复测试第2次",
+  "time" : {
+    "start" : 1625126289511,
+    "stop" : 1625126289511,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b252c7f0ebedaf10",
+  "name" : "Details... :: repetition 1 of 1",
+  "time" : {
+    "start" : 1625126289473,
+    "stop" : 1625126289473,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f744376482dabf45",
+  "name" : "OnMacOrLinux()",
+  "time" : {
+    "start" : 1625126290606,
+    "stop" : 1625126290606,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc79c0911a6216d2",
+  "name" : "input:45",
+  "time" : {
+    "start" : 1625126287350,
+    "stop" : 1625126287350,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36515d7d67595197",
+  "name" : "2nd dynamic test",
+  "time" : {
+    "start" : 1625126288399,
+    "stop" : 1625126289403,
+    "duration" : 1004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99e0027e2f005c75",
+  "name" : "racecar is a palindrome",
+  "time" : {
+    "start" : 1625126285312,
+    "stop" : 1625126285312,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8583af520665517",
+  "name" : "[1] 徐一",
+  "time" : {
+    "start" : 1625126290824,
+    "stop" : 1625126290825,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b84761c7f5f3c27a",
+  "name" : "[3] value3",
+  "time" : {
+    "start" : 1625126290720,
+    "stop" : 1625126290720,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c300b17093ad6e9",
+  "name" : "testDemo7",
+  "time" : {
+    "start" : 1625125639481,
+    "stop" : 1625125639482,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77fbaa5eb69dc41b",
+  "name" : "repetition 5 of 5",
+  "time" : {
+    "start" : 1625126289469,
+    "stop" : 1625126289470,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c37039eca5756493",
+  "name" : "这是thirdClassCase1测试方法DisplayName",
+  "time" : {
+    "start" : 1625126289539,
+    "stop" : 1625126289539,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4d27c8914847b86a",
+  "name" : "input:76",
+  "time" : {
+    "start" : 1625126287357,
+    "stop" : 1625126287357,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28f77b3c1c613728",
+  "name" : "[9] Weeks",
+  "time" : {
+    "start" : 1625126290767,
+    "stop" : 1625126290768,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c081e1cdb5bc8e4",
+  "name" : "test0",
+  "time" : {
+    "start" : 1625126285265,
+    "stop" : 1625126285266,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3513af885bd86d79",
+  "name" : "[1] 1, One",
+  "time" : {
+    "start" : 1625126290732,
+    "stop" : 1625126290733,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "701d47d976156c5c",
+  "name" : "[2] 徐二",
+  "time" : {
+    "start" : 1625126290827,
+    "stop" : 1625126290828,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cf68dbfedeab2bf",
+  "name" : "Wiederholung 2 von 5",
+  "time" : {
+    "start" : 1625124969241,
+    "stop" : 1625124969242,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8e7a6a5ccc6e818",
+  "name" : "length > 0",
+  "time" : {
+    "start" : 1625126285223,
+    "stop" : 1625126285223,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca724579fe07b5c8",
+  "name" : "input:95",
+  "time" : {
+    "start" : 1625126287358,
+    "stop" : 1625126287359,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34c5a84e45c29ee6",
+  "name" : "[2] banana",
+  "time" : {
+    "start" : 1625126290707,
+    "stop" : 1625126290708,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bff5f4fb69834499",
+  "name" : "onlyOnJava8Min()",
+  "time" : {
+    "start" : 1625126290589,
+    "stop" : 1625126290589,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2d777d94e2684f3e",
+  "name" : "[8] Days",
+  "time" : {
+    "start" : 1625126290761,
+    "stop" : 1625126290762,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13e5f5322a75c5a9",
+  "name" : "repetition 4 of 5",
+  "time" : {
+    "start" : 1625126289467,
+    "stop" : 1625126289468,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5da561dce0450660",
+  "name" : "这是fourthClassCase1测试方法DisplayName",
+  "time" : {
+    "start" : 1625126289519,
+    "stop" : 1625126289520,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "503167bfcb9a433c",
+  "name" : "[16] Forever",
+  "time" : {
+    "start" : 1625126290793,
+    "stop" : 1625126290794,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c97542d505e3c9d",
+  "name" : "[3] fish",
+  "time" : {
+    "start" : 1625126290693,
+    "stop" : 1625126290694,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d30b0dde721bcffe",
+  "name" : "[2] Micros",
+  "time" : {
+    "start" : 1625126290744,
+    "stop" : 1625126290744,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7854a65906a92c0",
+  "name" : "[15] Eras",
+  "time" : {
+    "start" : 1625126290790,
+    "stop" : 1625126290791,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e5b24b42a6d696a",
+  "name" : "[2] 2, Two",
+  "time" : {
+    "start" : 1625126290735,
+    "stop" : 1625126290735,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e72c2a256d1648d0",
+  "name" : "[10] Months",
+  "time" : {
+    "start" : 1625126290771,
+    "stop" : 1625126290772,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae1dfa088bfcb99b",
+  "name" : "repetition 1 of 5",
+  "time" : {
+    "start" : 1625126289458,
+    "stop" : 1625126289460,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2688f6e95ae28f1e",
+  "name" : "onlyOnJava8Or9()",
+  "time" : {
+    "start" : 1625126290591,
+    "stop" : 1625126290592,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa44dc0a6fd8086",
+  "name" : "'pop' is a palindrome",
+  "time" : {
+    "start" : 1625126285247,
+    "stop" : 1625126285247,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83bbd63fc334385",
+  "name" : "[3] 徐三",
+  "time" : {
+    "start" : 1625126290821,
+    "stop" : 1625126290822,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe4a2b1092542556",
+  "name" : "[12] Decades",
+  "time" : {
+    "start" : 1625126290777,
+    "stop" : 1625126290778,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e85c60698b7f3961",
+  "name" : "not null",
+  "time" : {
+    "start" : 1625126285116,
+    "stop" : 1625126285125,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20a9e3d7b560a50c",
+  "name" : "[14] Millennia",
+  "time" : {
+    "start" : 1625126290786,
+    "stop" : 1625126290786,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3c35e9914cb625a",
+  "name" : "notOnWindows()",
+  "time" : {
+    "start" : 1625126290577,
+    "stop" : 1625126290577,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c168506fac137030",
+  "name" : "test1",
+  "time" : {
+    "start" : 1625125654629,
+    "stop" : 1625125654635,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5c107d29a4b1b03",
+  "name" : "testOnlyOnCiServer()",
+  "time" : {
+    "start" : 1625124970431,
+    "stop" : 1625124970432,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a88f0f4e33874ae9",
+  "name" : "[3] 徐三",
+  "time" : {
+    "start" : 1625126290809,
+    "stop" : 1625126290810,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "443f1d50e9f95271",
+  "name" : "input:72",
+  "time" : {
+    "start" : 1625126287360,
+    "stop" : 1625126287360,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dbe527c44b21725",
+  "name" : "customPropertyIsNotSetByDefault()",
+  "time" : {
+    "start" : 1625126289486,
+    "stop" : 1625126289487,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32ce3c944db439b6",
+  "name" : "test8",
+  "time" : {
+    "start" : 1625126285283,
+    "stop" : 1625126285284,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "853a8cdd878bdb96",
+  "name" : "input:19",
+  "time" : {
+    "start" : 1625126287369,
+    "stop" : 1625126287369,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea72595e39e95308",
+  "name" : "test18",
+  "time" : {
+    "start" : 1625124965022,
+    "stop" : 1625124965023,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9564b7a04aa5152",
+  "name" : "onlyOnJava11Max()",
+  "time" : {
+    "start" : 1625126290608,
+    "stop" : 1625126290608,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "117a7963cfb61702",
+  "name" : "myDefine()",
+  "time" : {
+    "start" : 1625126290583,
+    "stop" : 1625126290583,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e1f262cc7871d3c",
+  "name" : "Repeat! 1/1",
+  "time" : {
+    "start" : 1625126289477,
+    "stop" : 1625126289478,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "541b49c969c5242d",
+  "name" : "dad",
+  "time" : {
+    "start" : 1625124965045,
+    "stop" : 1625124965045,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87d51ed91f3dca01",
+  "name" : "test2",
+  "time" : {
+    "start" : 1625126285268,
+    "stop" : 1625126285269,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7a96f0a79371bd5",
+  "name" : "onlyOn64BitArchitectures()",
+  "time" : {
+    "start" : 1625124970515,
+    "stop" : 1625124970516,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aad1bf16d69d1b90",
+  "name" : "reportSingleValue(TestReporter)",
+  "time" : {
+    "start" : 1625124970545,
+    "stop" : 1625124970562,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "170c988840defac2",
+  "name" : "repetition 2 of 5",
+  "time" : {
+    "start" : 1625126289463,
+    "stop" : 1625126289463,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "892f55e275371b85",
+  "name" : "只有操作系统是Linux才会执行",
+  "time" : {
+    "start" : 1625124969346,
+    "stop" : 1625124969346,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2747762cd3b1c9a9",
+  "name" : "[3] DAYS",
+  "time" : {
+    "start" : 1625126290663,
+    "stop" : 1625126290663,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c07306646ca404d3",
+  "name" : "[5] Minutes",
+  "time" : {
+    "start" : 1625126290752,
+    "stop" : 1625126290753,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a25191b529e710a",
+  "name" : "mom",
+  "time" : {
+    "start" : 1625126285305,
+    "stop" : 1625126285305,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4594ccba64ff485",
+  "name" : "testDemo2",
+  "time" : {
+    "start" : 1625125639350,
+    "stop" : 1625125639350,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "affe0545204b8f0d",
+  "name" : "dynamicTestsWithInvalidReturnType()",
+  "time" : {
+    "start" : 1625124969167,
+    "stop" : 1625124969167,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c0385379dac5a510",
+  "name" : "这是fourthClassCase1测试方法DisplayName",
+  "time" : {
+    "start" : 1625126289537,
+    "stop" : 1625126289537,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
